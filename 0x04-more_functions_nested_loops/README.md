@@ -1,1 +1,1 @@
-new readme file
+C - More functions,more nested loops
